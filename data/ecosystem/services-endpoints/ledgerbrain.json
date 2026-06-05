@@ -1,0 +1,7 @@
+{
+"name": "LedgerBrain",
+"description": "Pay-per-request blockchain compliance API — KYT, KYA, and KYE reports gated by x402 USDC payments on Base. AI agents receive instant risk scores, address analysis, and entity profiles with no subscription required.",                
+"url": "https://ledgerbrain.io/x402",
+"category": "services-endpoints",
+"logo": "/logos/ledgerbrain.png"
+}
